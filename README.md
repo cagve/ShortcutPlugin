@@ -37,16 +37,16 @@ It uses the **NUMPAD** and control as modifier.
 | 7        | Rectangle         |
 | 8        | Ellipse           |
 | 9        | Arrow             |
-| <Ctrl>+0 | Eraser (General)  |
-| <Ctrl>+1 | Plain             |
-| <Ctrl>+2 | Dashed            |
-| <Ctrl>+3 | Dotted            |
-| <Ctrl>+4 | Yellow            |
-| <Ctrl>+5 | Blue              |
-| <Ctrl>+6 | Purple            |
-| <Ctrl>+7 | Select with arrow |
-| <Ctrl>+8 | Select  rect      |
-| <Ctrl>+9 | Select area       |
+| Ctrl+0 | Eraser (General)  |
+| Ctrl+1 | Plain             |
+| Ctrl+2 | Dashed            |
+| Ctrl+3 | Dotted            |
+| Ctrl+4 | Yellow            |
+| Ctrl+5 | Blue              |
+| Ctrl+6 | Purple            |
+| Ctrl+7 | Select with arrow |
+| Ctrl+8 | Select  rect      |
+| Ctrl+9 | Select area       |
 
 
 **CREDITS TO LecJackS** 
