@@ -86,10 +86,10 @@ end
 function select_tool(tool)
     current_tool = tool
     if tool == 1 then 
-        app.uiAction({["action"] = "ACTION_TOOL_ERASER_STANDARD"})
+        app.uiAction({["action"] = "ACTION_TOOL_ERASER"})
     elseif  current_tool == 2 then
         app.uiAction({["action"] = "ACTION_TOOL_DEFAULT"})
-    elseif current_tool <=4 then 
+    elseif current_tool ==3 or current_tool ==4 then 
         app.uiAction({["action"] = "ACTION_TOOL_"..tools[current_tool]})
     else
         app.uiAction({["action"] = "ACTION_TOOL_ERASER_DELETE_STROKE"})

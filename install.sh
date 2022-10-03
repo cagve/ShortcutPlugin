@@ -1,2 +1,4 @@
 #/bin/sh
-sudo cp -r ../ShortcutPlugin /usr/share/xournalpp/plugins/
+sudo mkdir /usr/share/xournalpp/plugins/ShortcutPlugin/
+sudo cp ../ShortcutPlugin/main.lua /usr/share/xournalpp/plugins/ShortcutPlugin
+sudo cp ../ShortcutPlugin/plugin.ini /usr/share/xournalpp/plugins/ShortcutPlugin
